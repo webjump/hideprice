@@ -1,10 +1,6 @@
 # Hide Price Extension For Magento 2
 
-Thank you for using the "Hideprice module for Magento2".
-
-## Contents
-
-- [Description](#description)
+Welcome to Hide Price Extension on Magento 2.0 Installation! We're glad that you are interested in my extension. 
 
 ## Description
 
