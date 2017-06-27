@@ -5,7 +5,7 @@ class Data extends \Magento\Framework\App\Helper\AbstractHelper
 {
     const XML_CONFIG_ENABLE = 'hideprice/configuration/enablehideprice';
     const XML_PRICE_TEXT = 'hideprice/configuration/price_text';
-       const XML_EST_MESSAGE = 'hideprice/configuration/price_message';
+    const XML_EST_MESSAGE = 'hideprice/configuration/price_message';
 
     protected $_scopeConfig;
     protected $enable_config;
@@ -43,7 +43,6 @@ class Data extends \Magento\Framework\App\Helper\AbstractHelper
 
     public function isCustomerlogin()
     {
-
         return $this->customerSession->isLoggedIn()?true:false;
     }
 }
